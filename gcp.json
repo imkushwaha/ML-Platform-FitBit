@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "sigma-maker-334112",
+  "private_key_id": "bb02c57238bff86085cf5d641e235785597838cd",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDFkz3bGZh38V5p\n5zhs8S4psBh3p34JhyU7oW/hbYGIbENrhFaxidgwxqELK1rBBvZzClSmxqnWr7sy\n59VSnGB4B1v7J9K0Na4kSJUrL7eWxdK2OIuSgJwozJ0reQXeHbhYO90nJ+gGtiNp\nbfH2pcSND7pXylSWCZahUuwgYVzFl20JqP0NymuNFeWsM0Fx+/sk+YBtsEyLfPDl\nsvfHMBG4j04Aj6BXeGv/Tejl6Md6fLWzS0i4/CC29/cH2c7JlAZ2YsszdyEyV9wO\nDNVzH7MRprto4cPXX8FLhG0OMAhlBbkQAw/tG5lLtMEyD93y179Bk4p/FrsqoaFA\nP+Eg97zRAgMBAAECggEADFhh8hHMXBpB2v4uoWgEiWhObxORJYlDQ1GYCw7rnBmf\nsNUpEZjaYFnY8Di6R/tmZNPNbEpXjGmYmdqwkqPgxz82eSAI42fDRNMgNv2ZTBt6\nShaIahQNLeNzIqdCPZm/zguXiv3MWrcAyXKsPswm1uWXsCqdVG6u8c+bn35V7Kao\ncpf9DMep8Ao/RfUPB+2oS2k+/SNGIGt/Hd/UpvQpI/djGnRSAYFqmSgTEuqYYvqt\n6h6p5nwlIw8WkH71QEiMQrnFpkx6B2v4ogP6SMYwkSo7mJxu6tGp5eX/8q2eNODc\nhdCqF9Kh8hDuEithL1+hxIc4qCrGXB3iIBl/gt8wzQKBgQDpYtoX/z4afuhxmMEZ\nydvwJIArt9T7k/c1XwwScDJCTRTqlGJx7GWuNhFMrIKYUssuW1Teqm1w1rCNmjWn\nbtOZ8T0fD1XHdeor9GMq9dQSpA7aKRDMPfRBNYiulYd2Dw7e5EnSwMdA2VnYiA3e\nVk9YYX+KX1h+HUQmJlQbaPWmGwKBgQDYuBj/Y+Y7MYy1BDvkdCHHiylZUAC/E01/\nbPYh3jlBoJVD/L9wMfhqetzyjvDS+L2Jy1Rfm4bFblywyMF9PEG75bsvezTFtM01\nMjFuLX8OLscoBrzt5MbqU6E7RZxTahcFw5+9DIa/TZqac4diRqX2dn2TwsGE05X6\nwixP+rsHgwKBgC3BzMKhr1pggVAsQ8e7lNxrO5nWq/I7G1+iZ+qBhskK9cvcFcUC\nNRlHznJ67AvTR7SqAWS6g0R5QxowHs7Z4rCu5G3fgtDdZHEDtCGrGs4gziylmn6A\nsw/J4Cdid7GE2ESI+5RPaYFkW8IhQp7RyzKnwuqtMNtg/4h/QUQyet77AoGAXCQp\nvKvkv1YZ1Pyv2jnmAskQE4EIUDUMxhi1rUCmZ1i3HejgG/ui+uKx/g74JTrMm0Fv\n5hZh/p8lmaRBX9W2vQS3yUBA964fcXadvZJqasVIt6Plv999EzPrYR//jxeUIkdC\nK0agI8YC7Zgg/4+6EEfgrGopjSfIpIzZ+kdILbECgYBM6kaPGlUWO1Q+TRZxu6YX\ngBmBpHkrqPKXPfw4hrjqTV5d4OFbNulgnGlC8UxClkG19NtZSobm3rYF9oW+0t72\na52+bbnGhBhwEhqW3M3LxWSgLT7VeeU9ofXfN8LzIV3IEK5l/kCs+f4l5NXNYkIc\niU/76NN1yf+sh9NhevVODg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "mlplatform@sigma-maker-334112.iam.gserviceaccount.com",
+  "client_id": "101611180890348675824",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mlplatform%40sigma-maker-334112.iam.gserviceaccount.com"
+}
